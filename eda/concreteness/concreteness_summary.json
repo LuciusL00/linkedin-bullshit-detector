@@ -1,0 +1,268 @@
+{
+  "coverage": {
+    "posts": 31996,
+    "reliable_posts": 26578,
+    "median_matched": 13.0,
+    "median_coverage": 0.875
+  },
+  "distribution": {
+    "influencers": {
+      "n": 26578,
+      "mean": 2.9966740574023687,
+      "sd": 0.3046939788851527,
+      "p10": 2.628,
+      "p90": 3.3775833333333334
+    },
+    "figshare": {
+      "n": 590,
+      "mean": 3.075312465058144,
+      "sd": 0.2915941683508266,
+      "p10": 2.703561538461538,
+      "p90": 3.432730769230769
+    },
+    "zenodo98": {
+      "n": 97,
+      "mean": 3.0672675862910377,
+      "sd": 0.22077903496490606,
+      "p10": 2.81793886043534,
+      "p90": 3.3611666666666666
+    }
+  },
+  "author_r2": 0.06360189595212784,
+  "truncation": {
+    "False": 2.9961454145472266,
+    "True": 2.9970085062484344
+  },
+  "flowery_vs_concreteness": {
+    "spearman_full_words": -0.1679959731917605,
+    "spearman_residual_words": -0.07207423913306256,
+    "p": 5.923860877251645e-32,
+    "spearman_residual_within_author": -0.04741735493910165,
+    "p_within": 1.039535081121647e-14,
+    "share_posts_with_flowery": 0.3056663405824366
+  },
+  "flowery_quintiles": {
+    "0": {
+      "flowery_per100": 0.0,
+      "conc_mean": 3.049,
+      "conc_resid": 3.049
+    },
+    "1": {
+      "flowery_per100": 0.0,
+      "conc_mean": 3.015,
+      "conc_resid": 3.015
+    },
+    "2": {
+      "flowery_per100": 0.0,
+      "conc_mean": 3.025,
+      "conc_resid": 3.025
+    },
+    "3": {
+      "flowery_per100": 1.182,
+      "conc_mean": 2.997,
+      "conc_resid": 3.009
+    },
+    "4": {
+      "flowery_per100": 7.951,
+      "conc_mean": 2.898,
+      "conc_resid": 2.97
+    }
+  },
+  "markers": {
+    "maxim_contrast": {
+      "conc_mean": {
+        "diff": -0.08106569244536865,
+        "lo": -0.12599966551924682,
+        "hi": -0.0411107926953687,
+        "n_with": 290,
+        "n_without": 26288
+      },
+      "conc_resid": {
+        "diff": -0.08139825933446651,
+        "lo": -0.12623665006464868,
+        "hi": -0.04025343841554024,
+        "n_with": 290,
+        "n_without": 26288
+      }
+    },
+    "lesson_framing": {
+      "conc_mean": {
+        "diff": -0.019126086659267346,
+        "lo": -0.04216934945717792,
+        "hi": -0.0006239418153525391,
+        "n_with": 816,
+        "n_without": 25762
+      },
+      "conc_resid": {
+        "diff": -0.01666542186289595,
+        "lo": -0.03974864691705695,
+        "hi": 0.0035188212110212297,
+        "n_with": 816,
+        "n_without": 25762
+      }
+    },
+    "announce_humblebrag": {
+      "conc_mean": {
+        "diff": 0.010041446078856679,
+        "lo": -0.01291912780155559,
+        "hi": 0.034540983270587196,
+        "n_with": 627,
+        "n_without": 25951
+      },
+      "conc_resid": {
+        "diff": 0.03348139188947339,
+        "lo": 0.00993068728607029,
+        "hi": 0.057978461713822364,
+        "n_with": 627,
+        "n_without": 25951
+      }
+    },
+    "inspirational_hashtag": {
+      "conc_mean": {
+        "diff": -0.020859076964887396,
+        "lo": -0.03123371957963418,
+        "hi": -0.01074688704002016,
+        "n_with": 2020,
+        "n_without": 24558
+      },
+      "conc_resid": {
+        "diff": -0.015813389074674285,
+        "lo": -0.027294724263941972,
+        "hi": -0.004114143361473292,
+        "n_with": 2020,
+        "n_without": 24558
+      }
+    },
+    "multi_exclamation": {
+      "conc_mean": {
+        "diff": 0.03354526132596854,
+        "lo": 0.01591359866849876,
+        "hi": 0.051740509042179625,
+        "n_with": 1840,
+        "n_without": 24738
+      },
+      "conc_resid": {
+        "diff": 0.03424180049772785,
+        "lo": 0.0194211073944065,
+        "hi": 0.05308221145620991,
+        "n_with": 1840,
+        "n_without": 24738
+      }
+    },
+    "has_number": {
+      "conc_mean": {
+        "diff": 0.03746923057673264,
+        "lo": 0.026750479185542783,
+        "hi": 0.0508780385217006,
+        "n_with": 12323,
+        "n_without": 14255
+      },
+      "conc_resid": {
+        "diff": 0.03685366318994224,
+        "lo": 0.02485674709417985,
+        "hi": 0.04958341833756413,
+        "n_with": 12323,
+        "n_without": 14255
+      }
+    }
+  },
+  "lowest": [
+    [
+      1.88,
+      "Regardless of what Facebook may want to believe, there are others who will want to believe the exact opposite. Who gets to decide what is or is not actually true? Think a"
+    ],
+    [
+      2.07,
+      "TAKE RESPONSIBILITY FOR YOUR ACTIONS. If I blame, I live in the past. When I take full responsibility, I can finally learn from what I did wrong and move forward into the"
+    ],
+    [
+      2.09,
+      "do not rely only on one theory or one theorist without context. if you are a practitioner, you do not need to rely on a theorist, mere knowledge of his theory is enough t"
+    ],
+    [
+      2.15,
+      "It\u2019s going to feel great to look back on these times. They\u2019ve not been much to look forward to, it\u2019s not a great moment to be living in, but it does feel like the start o"
+    ],
+    [
+      2.16,
+      "What have you done lately to learn something new? Have you gotten outside your comfort zone recently? We most definitely need to evolve if we want stay relevant in the fu"
+    ],
+    [
+      2.17,
+      "hypothesis: in the future, AI algorithms will show you which jurisdiction they are licensed to operate in and which privacy laws and anti-bias regulation they abide by. y"
+    ]
+  ],
+  "highest": [
+    [
+      4.22,
+      "I had a boss who would push his glasses down on his nose when I walked in and look at me above the glasses. Like I was not worth focusing on. Like I was half a human. He "
+    ],
+    [
+      4.14,
+      "Happy Fried Chicken Day Yeah, it\u2019s a thing \ud83c\udf57\ud83d\ude02 Whether you are, eat a fried chicken. What\u2019s your favourite fried chicken? Mine\u2019s Korean fried chicken with \ud83c\udf7b #stringtheory "
+    ],
+    [
+      4.11,
+      "Scenes from a single subway car: phone soap, immunity pills, face sanitizer and dumbbell wraps. Welcome to 2020."
+    ],
+    [
+      4.09,
+      "When is a taco not a taco? Think outside the bun on the newest episode of Think About This with Shelly Palmer & Ross Martin , where we talk to Jennifer Arnoldt and Rob Po"
+    ],
+    [
+      4.02,
+      "When we started Virgin life was all about hand-written letters, calling advertisers from phone booths, and running across town to speak with bands and banks\u2026 https://virg"
+    ],
+    [
+      4.01,
+      "Mint's Marketplace/P2P seminar this evening in Mumbai. Reserve Bank Deputy Governor R Gandhi Chief Guests. Former Deputy Governor Anand Sinha, former SEBI Chairman CB Bha"
+    ]
+  ],
+  "examples": {
+    "Pseudo-profound (Pennycook stimulus)": {
+      "n_matched": 6.0,
+      "conc_mean": 2.22,
+      "abstract_ratio": 0.67
+    },
+    "Pseudo-profound (Pennycook stimulus) 2": {
+      "n_matched": 4.0,
+      "conc_mean": 2.21,
+      "abstract_ratio": 0.5
+    },
+    "Corporate buzzwords": {
+      "n_matched": 6.0,
+      "conc_mean": 2.58,
+      "abstract_ratio": 0.5
+    },
+    "LinkedIn maxim": {
+      "n_matched": 5.0,
+      "conc_mean": 2.3,
+      "abstract_ratio": 0.6
+    },
+    "Motivational quote": {
+      "n_matched": 5.0,
+      "conc_mean": 3.72,
+      "abstract_ratio": 0.4
+    },
+    "Mundane": {
+      "n_matched": 4.0,
+      "conc_mean": 3.84,
+      "abstract_ratio": 0.0
+    },
+    "Coffee + inflated lesson": {
+      "n_matched": 7.0,
+      "conc_mean": 3.12,
+      "abstract_ratio": 0.29
+    },
+    "Technical, vague": {
+      "n_matched": 6.0,
+      "conc_mean": 2.42,
+      "abstract_ratio": 0.5
+    },
+    "Technical, specific": {
+      "n_matched": 8.0,
+      "conc_mean": 2.79,
+      "abstract_ratio": 0.25
+    }
+  }
+}

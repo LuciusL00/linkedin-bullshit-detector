@@ -1,0 +1,652 @@
+{
+  "size": {
+    "Influencers": 30864,
+    "Ordinary users: own posts": 329,
+    "Ordinary users: reposts": 305
+  },
+  "authors": {
+    "Influencers": 68,
+    "Ordinary users: own posts": 329,
+    "Ordinary users: reposts": 305
+  },
+  "missing_share": {
+    "figshare": {
+      "author_info": 0.0,
+      "followers": 0.0,
+      "media_type": 0.0,
+      "posted": 0.0,
+      "reactions": 0.0,
+      "comments": 0.0,
+      "reposts": 0.0
+    },
+    "influencers": {
+      "author_info": 0.0,
+      "followers": 0.001,
+      "media_type": 0.0,
+      "posted": 0.0,
+      "reactions": 0.0,
+      "comments": 0.0,
+      "reposts": 1.0
+    }
+  },
+  "influencer_age_years_ago": {
+    "under_1": 0.41951788491446346,
+    "1": 0.23133748055987557,
+    "2_to_3": 0.27750777604976673,
+    "4_plus": 0.06910964230171072,
+    "unparsed": 0.002527216174183515
+  },
+  "figshare_dates": {
+    "parsed_share": 1.0,
+    "by_year": {
+      "2013": 1,
+      "2014": 4,
+      "2015": 6,
+      "2016": 8,
+      "2017": 8,
+      "2018": 6,
+      "2019": 11,
+      "2020": 25,
+      "2021": 27,
+      "2022": 38,
+      "2023": 281,
+      "2024": 219
+    }
+  },
+  "words": {
+    "Influencers": {
+      "count": 30864.0,
+      "mean": 48.7,
+      "std": 47.7,
+      "min": 0.0,
+      "25%": 16.0,
+      "50%": 33.0,
+      "75%": 62.0,
+      "90%": 117.0,
+      "max": 265.0
+    },
+    "Ordinary users: own posts": {
+      "count": 329.0,
+      "mean": 55.4,
+      "std": 75.6,
+      "min": 0.0,
+      "25%": 16.0,
+      "50%": 29.0,
+      "75%": 65.0,
+      "90%": 123.2,
+      "max": 510.0
+    },
+    "Ordinary users: reposts": {
+      "count": 305.0,
+      "mean": 82.8,
+      "std": 67.8,
+      "min": 0.0,
+      "25%": 36.0,
+      "50%": 63.0,
+      "75%": 110.0,
+      "90%": 173.6,
+      "max": 387.0
+    }
+  },
+  "share_under_10_words": {
+    "Influencers": 0.12564800414722654,
+    "Ordinary users: own posts": 0.14285714285714285,
+    "Ordinary users: reposts": 0.04590163934426229
+  },
+  "share_no_words_only_tags_or_links": {
+    "Influencers": 0.009363659927423535,
+    "Ordinary users: own posts": 0.00911854103343465,
+    "Ordinary users: reposts": 0.003278688524590164
+  },
+  "influencer_truncated_share": 0.5280909797822706,
+  "words_truncated_vs_not": {
+    "false": 16.0,
+    "true": 58.0
+  },
+  "media_type": {
+    "article": 0.458,
+    "image": 0.263,
+    "none": 0.188,
+    "video": 0.085,
+    "document": 0.003,
+    "poll": 0.003,
+    "entity": 0.001,
+    "newsletter": 0.0,
+    "view": 0.0
+  },
+  "influencer_posts_per_author": {
+    "median": 295.0,
+    "min": 4,
+    "max": 1834,
+    "top5_share_of_posts": 0.2540500259201659
+  },
+  "patterns": {
+    "Lesson framing (\"lessons\", \"taught me\", \"here's what\")": {
+      "Influencers": 0.027183773976153448,
+      "Ordinary users: own posts": 0.0182370820668693
+    },
+    "\"It's not about X, it's about Y\"": {
+      "Influencers": 0.009590461378952825,
+      "Ordinary users: own posts": 0.0
+    },
+    "Announcement (\"thrilled / honoured to\")": {
+      "Influencers": 0.020930533955417316,
+      "Ordinary users: own posts": 0.0911854103343465
+    },
+    "Asks readers a question (\"Agree?\", \"Thoughts?\")": {
+      "Influencers": 0.004762830482115086,
+      "Ordinary users: own posts": 0.00303951367781155
+    },
+    "Hiring post": {
+      "Influencers": 0.001134007257646449,
+      "Ordinary users: own posts": 0.00911854103343465
+    },
+    "Contains a number": {
+      "Influencers": 0.4224987039917055,
+      "Ordinary users: own posts": 0.4316109422492401
+    },
+    "Contains a link": {
+      "Influencers": 0.1958592534992224,
+      "Ordinary users: own posts": 0.11854103343465046
+    },
+    "Has hashtags": {
+      "Influencers": 0.5114696734059098,
+      "Ordinary users: own posts": 0.4012158054711246
+    },
+    "Has an emoji": {
+      "Influencers": 0.06198159668221877,
+      "Ordinary users: own posts": 0.1033434650455927
+    },
+    "Inspirational / buzz words (journey, empower, unlock...)": {
+      "Influencers": 0.11547433903576983,
+      "Ordinary users: own posts": 0.12462006079027356
+    },
+    "Cut off at \"...see more\"": {
+      "Influencers": 0.5280909797822706,
+      "Ordinary users: own posts": 0.0
+    }
+  },
+  "top_words_share_of_posts": {
+    "Influencers": {
+      "words": {
+        "new": 0.109,
+        "time": 0.106,
+        "people": 0.096,
+        "work": 0.075,
+        "make": 0.072,
+        "think": 0.071,
+        "world": 0.069,
+        "it's": 0.067,
+        "know": 0.065,
+        "need": 0.061,
+        "help": 0.06,
+        "want": 0.058,
+        "great": 0.057,
+        "way": 0.057,
+        "business": 0.056
+      },
+      "phrases": {
+        "digital health": 0.02,
+        "social media": 0.014,
+        "artificial intelligence": 0.009,
+        "years ago": 0.009,
+        "gzero media": 0.007,
+        "new york": 0.007,
+        "today's column": 0.007,
+        "let know": 0.007,
+        "make sure": 0.007,
+        "medical futurist": 0.007,
+        "wall street": 0.006,
+        "looking forward": 0.006,
+        "new book": 0.006,
+        "shelly palmer": 0.006,
+        "link comments": 0.005
+      }
+    },
+    "Ordinary users: own posts": {
+      "words": {
+        "new": 0.237,
+        "share": 0.161,
+        "dallas": 0.146,
+        "team": 0.134,
+        "happy": 0.131,
+        "know": 0.119,
+        "opportunity": 0.116,
+        "thank": 0.112,
+        "looking": 0.109,
+        "worth": 0.1,
+        "time": 0.097,
+        "fort": 0.097,
+        "help": 0.088,
+        "make": 0.088,
+        "position": 0.088
+      },
+      "phrases": {
+        "fort worth": 0.097,
+        "happy share": 0.091,
+        "new position": 0.076,
+        "share starting": 0.064,
+        "starting new": 0.064,
+        "dallas fort": 0.04,
+        "know interested": 0.03,
+        "real estate": 0.03,
+        "look forward": 0.03,
+        "finished course": 0.027,
+        "project manager": 0.024,
+        "make sure": 0.021,
+        "looking forward": 0.018,
+        "new role": 0.018,
+        "new year": 0.018
+      }
+    }
+  },
+  "top_hashtags_influencers": {
+    "technology": 1543,
+    "digitalhealth": 1511,
+    "healthcare": 1417,
+    "economy": 1247,
+    "leadership": 1164,
+    "future": 1118,
+    "markets": 1074,
+    "medicine": 1053,
+    "themedicalfuturist": 947,
+    "covid19": 776,
+    "radicalcpa": 713,
+    "business": 628,
+    "investing": 583,
+    "health": 534,
+    "ai": 531
+  },
+  "post_types": {
+    "0": {
+      "name": "Banking & fintech",
+      "top_terms": [
+        "fintech",
+        "banking",
+        "banks",
+        "financial",
+        "bank",
+        "payments",
+        "services",
+        "financial services",
+        "india",
+        "financialservices"
+      ],
+      "posts": 1057,
+      "share": {
+        "Ordinary users: reposts": 0.013114754098360656,
+        "Ordinary users: own posts": 0.015197568389057751,
+        "Influencers": 0.03395541731467081
+      },
+      "influencer_authors": 29,
+      "top_influencer_share": 0.583969465648855
+    },
+    "1": {
+      "name": "Opinions about people & work",
+      "top_terms": [
+        "people",
+        "don",
+        "like",
+        "things",
+        "think",
+        "just",
+        "work",
+        "make",
+        "want",
+        "time"
+      ],
+      "posts": 2086,
+      "share": {
+        "Ordinary users: reposts": 0.07868852459016394,
+        "Ordinary users: own posts": 0.0486322188449848,
+        "Influencers": 0.06629082426127528
+      },
+      "influencer_authors": 62,
+      "top_influencer_share": 0.16666666666666666
+    },
+    "2": {
+      "name": "Work, productivity & life advice",
+      "top_terms": [
+        "time",
+        "work",
+        "life",
+        "day",
+        "make",
+        "productivity",
+        "working",
+        "don",
+        "home",
+        "things"
+      ],
+      "posts": 2996,
+      "share": {
+        "Ordinary users: reposts": 0.09180327868852459,
+        "Ordinary users: own posts": 0.11854103343465046,
+        "Influencers": 0.09490020736132711
+      },
+      "influencer_authors": 65,
+      "top_influencer_share": 0.20109252304540798
+    },
+    "3": {
+      "name": "Marketing & personal branding",
+      "top_terms": [
+        "marketing",
+        "linkedin",
+        "brand",
+        "content",
+        "social",
+        "media",
+        "personal",
+        "social media",
+        "video",
+        "build"
+      ],
+      "posts": 2228,
+      "share": {
+        "Ordinary users: reposts": 0.04918032786885246,
+        "Ordinary users: own posts": 0.0425531914893617,
+        "Influencers": 0.07124805598755832
+      },
+      "influencer_authors": 62,
+      "top_influencer_share": 0.14506593906321055
+    },
+    "4": {
+      "name": "Accounting (#radicalcpa)",
+      "top_terms": [
+        "radicalcpa",
+        "cpa",
+        "radicalcpa cpa",
+        "accounting",
+        "tax",
+        "cpafirm",
+        "ai",
+        "accountingfirm",
+        "technology",
+        "bots"
+      ],
+      "posts": 716,
+      "share": {
+        "Ordinary users: reposts": 0.0,
+        "Ordinary users: own posts": 0.0,
+        "Influencers": 0.023198548470710213
+      },
+      "influencer_authors": 4,
+      "top_influencer_share": 0.994413407821229
+    },
+    "5": {
+      "name": "Digital health",
+      "top_terms": [
+        "healthcare",
+        "health",
+        "digitalhealth",
+        "future",
+        "technology",
+        "medicine",
+        "future healthcare",
+        "healthcare medicine",
+        "digitalhealth future",
+        "digital"
+      ],
+      "posts": 1692,
+      "share": {
+        "Ordinary users: reposts": 0.013114754098360656,
+        "Ordinary users: own posts": 0.0,
+        "Influencers": 0.05469155002592017
+      },
+      "influencer_authors": 25,
+      "top_influencer_share": 0.9253554502369669
+    },
+    "6": {
+      "name": "General musings & advice",
+      "top_terms": [
+        "new",
+        "just",
+        "like",
+        "think",
+        "make",
+        "need",
+        "ve",
+        "don",
+        "way",
+        "know"
+      ],
+      "posts": 7524,
+      "share": {
+        "Ordinary users: reposts": 0.26885245901639343,
+        "Ordinary users: own posts": 0.24316109422492402,
+        "Influencers": 0.2385303265940902
+      },
+      "influencer_authors": 68,
+      "top_influencer_share": 0.10146699266503667
+    },
+    "7": {
+      "name": "Markets & economy news",
+      "top_terms": [
+        "markets",
+        "economy",
+        "economy markets",
+        "investing",
+        "stocks",
+        "bloomberg",
+        "investors",
+        "bonds",
+        "fed",
+        "centralbanks"
+      ],
+      "posts": 1451,
+      "share": {
+        "Ordinary users: reposts": 0.0,
+        "Ordinary users: own posts": 0.0,
+        "Influencers": 0.04701270088128564
+      },
+      "influencer_authors": 28,
+      "top_influencer_share": 0.8842177808407995
+    },
+    "8": {
+      "name": "Global health, women & world news",
+      "top_terms": [
+        "women",
+        "world",
+        "global",
+        "africa",
+        "media",
+        "globalhealth",
+        "gzero",
+        "globaldevelopment",
+        "health",
+        "gzero media"
+      ],
+      "posts": 2161,
+      "share": {
+        "Ordinary users: reposts": 0.08524590163934426,
+        "Ordinary users: own posts": 0.0364741641337386,
+        "Influencers": 0.06878564022809747
+      },
+      "influencer_authors": 61,
+      "top_influencer_share": 0.44135657089024966
+    },
+    "9": {
+      "name": "Business news, events & announcements",
+      "top_terms": [
+        "great",
+        "business",
+        "today",
+        "startup",
+        "join",
+        "read",
+        "team",
+        "company",
+        "ceo",
+        "virgin"
+      ],
+      "posts": 9587,
+      "share": {
+        "Ordinary users: reposts": 0.4,
+        "Ordinary users: own posts": 0.49544072948328266,
+        "Influencers": 0.3013867288750648
+      },
+      "influencer_authors": 68,
+      "top_influencer_share": 0.12083422919802193
+    }
+  },
+  "pilot": {
+    "posts": 60,
+    "bullshit_posts": 18,
+    "pool": {
+      "enriched": {
+        "bullshit_share": 0.42,
+        "posts": 24
+      },
+      "random": {
+        "bullshit_share": 0.22,
+        "posts": 36
+      }
+    },
+    "media_type": {
+      "article": {
+        "bullshit_share": 0.53,
+        "posts": 19
+      },
+      "image": {
+        "bullshit_share": 0.0,
+        "posts": 9
+      },
+      "none": {
+        "bullshit_share": 0.36,
+        "posts": 11
+      },
+      "unknown": {
+        "bullshit_share": 0.13,
+        "posts": 15
+      },
+      "video": {
+        "bullshit_share": 0.33,
+        "posts": 6
+      }
+    },
+    "truncated": {
+      "False": {
+        "bullshit_share": 0.19,
+        "posts": 27
+      },
+      "True": {
+        "bullshit_share": 0.39,
+        "posts": 33
+      }
+    },
+    "length": {
+      "10-30 words": {
+        "bullshit_share": 0.31,
+        "posts": 16
+      },
+      "31-60 words": {
+        "bullshit_share": 0.32,
+        "posts": 25
+      },
+      "61+ words": {
+        "bullshit_share": 0.26,
+        "posts": 19
+      }
+    },
+    "post_type_name": {
+      "Accounting (#radicalcpa)": {
+        "bullshit_share": 0.0,
+        "posts": 1
+      },
+      "Banking & fintech": {
+        "bullshit_share": 0.0,
+        "posts": 1
+      },
+      "Business news, events & announcements": {
+        "bullshit_share": 0.29,
+        "posts": 21
+      },
+      "Digital health": {
+        "bullshit_share": 0.0,
+        "posts": 1
+      },
+      "General musings & advice": {
+        "bullshit_share": 0.25,
+        "posts": 16
+      },
+      "Global health, women & world news": {
+        "bullshit_share": 0.0,
+        "posts": 2
+      },
+      "Marketing & personal branding": {
+        "bullshit_share": 0.33,
+        "posts": 3
+      },
+      "Markets & economy news": {
+        "bullshit_share": 0.0,
+        "posts": 1
+      },
+      "Opinions about people & work": {
+        "bullshit_share": 0.57,
+        "posts": 7
+      },
+      "Work, productivity & life advice": {
+        "bullshit_share": 0.43,
+        "posts": 7
+      }
+    },
+    "concreteness_influencer_posts": {
+      "bullshit_mean": 2.8627412844247324,
+      "not_bullshit_mean": 2.965602506292863,
+      "n_bullshit": 16,
+      "n_not": 26
+    }
+  },
+  "engagement": {
+    "reactions_median": 40.0,
+    "reactions_mean": 492.7431311560394,
+    "reactions_max": 391498.0,
+    "author_explains_share_of_log_reactions_variance": 0.7198204041713112,
+    "top5_authors_share_of_reactions": 0.8074768293369342,
+    "ordinary_own_reactions_median": 9.0,
+    "within_author_pct_difference": {
+      "Lesson framing (\"lessons\", \"taught me\", \"here's what\")": {
+        "pct": 0.2559080037856797,
+        "lo": 0.1225137123738652,
+        "hi": 0.42418671324583646,
+        "posts_with": 839
+      },
+      "\"It's not about X, it's about Y\"": {
+        "pct": 0.19568359104368033,
+        "lo": 0.061927139796329154,
+        "hi": 0.434154912140648,
+        "posts_with": 296
+      },
+      "Inspirational / buzz words (journey, empower, unlock...)": {
+        "pct": 0.20324560730937943,
+        "lo": 0.1180440858198903,
+        "hi": 0.31127547202864336,
+        "posts_with": 3564
+      },
+      "Announcement (\"thrilled / honoured to\")": {
+        "pct": 0.3126826521563982,
+        "lo": 0.1803803272536161,
+        "hi": 0.46969350115721237,
+        "posts_with": 646
+      },
+      "Asks readers a question (\"Agree?\", \"Thoughts?\")": {
+        "pct": 0.13195404899193725,
+        "lo": -0.11474722678904749,
+        "hi": 0.42287770925253726,
+        "posts_with": 147
+      },
+      "Contains a number": {
+        "pct": 0.03107533768949006,
+        "lo": -0.06969514668675929,
+        "hi": 0.13364383981856934,
+        "posts_with": 13040
+      },
+      "Contains a link": {
+        "pct": -0.1211128608076465,
+        "lo": -0.22129026815588443,
+        "hi": -0.009777213055785357,
+        "posts_with": 6045
+      }
+    }
+  }
+}
